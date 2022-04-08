@@ -1,5 +1,5 @@
 # DHC-Tax-Calculator
-This is a open source project for Da Hood. It can calculate how much you need to drop (tax included), how much will drop, and a estimated time on how long it will take to drop. This was made in Python so make sure you have Python installed or use Replit. 
+This is a open source project for Da Hood that can calculate a lot stuff regarding DHC. This was made in Python so make sure you have Python installed or use Replit. 
 
 # Features
 - Tax Calculator (Exact)
