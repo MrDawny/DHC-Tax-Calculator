@@ -13,11 +13,14 @@ print("") #this is js to make it look good
 
 DHCExtra1 = float(DHC1)
 DHCTax1 = (30/100) * DHCExtra1 #calculating for drop (30%)
-DHC333 = DHCExtra1 - DHCTax1
+DHC333 = DHCExtra1 - DHCTax1 #calculating system
 print("Drop Section:")
 print("DHC After Drop:", int(DHC333))
-DHCTax2 = DHC1/40000 #this is for the time to takes to drop
-print("Estimated time to drop:", int(DHCTax2),"minutes")
+DHC4 = DHC1/7000 #this is to see how many times u need to drop 7k
+print("How many times you need to drop 7k:", int(DHC4))
+DHC5 = DHC4 * 15 #time system
+DHC6 = DHC5/60 #time system
+print("Estimated time to drop:", int(DHC6),"minutes")
 
 print("") #this is js to make it look good
 
